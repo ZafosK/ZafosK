@@ -6,7 +6,8 @@
 - 📫 Email: zafkaraboikis2@gmail.com
 - 
 
-[![ZafosK's github stats](https://github-readme-stats.vercel.app/api?username=ZafosK)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
+
+[![ZafosK's github stats](https://github-readme-stats.vercel.app/api?username=ZafosK&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
